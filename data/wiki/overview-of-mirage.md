@@ -8,9 +8,9 @@ subject: Overview of MirageOS
 permalink: overview-of-mirage
 ---
 
-If you're familiar with the using the command line, The best way to
-learn about MirageOS is to try out the [installation
-instructions](https://mirage.io/docs/install) for yourself!
+This page provides background information. If you're new to MirageOS and
+want to jump straight in, we recommend the tutorials starting from the
+[installation instructions](https://mirage.io/docs/install)!
 
 ### What is MirageOS and why is it important?
 
@@ -126,6 +126,8 @@ efficiency and safety and is ideal for deploying to both the public
 cloud and embedded devices. Together with
 [Irmin](http://nymote.org/software/irmin) and
 [Signpost](http://nymote.org/software/signpost), MirageOS forms a core
-piece of the Nymote/MISO toolstack to power the coming wave of [Internet of
-Things devices](http://en.wikipedia.org/wiki/Internet_of_Things).
+piece of the
+[Nymote/MISO toolstack](http://amirchaudhry.com/brewing-miso-to-serve-nymote)
+to power the coming wave of
+[Internet of Things devices](http://en.wikipedia.org/wiki/Internet_of_Things).
 
